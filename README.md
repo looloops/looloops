@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Luljeta Sota from Italy<br><br>- 📚 I'm currently studying in Epicode to become fullstack developer</p>
+<p align="left">I'm Luljeta from Italy<br><br>- 📚 I'm currently studying in Epicode to become fullstack developer</p>
 
 ###
 
@@ -45,7 +45,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=looloops&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=looloops&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=looloops&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
