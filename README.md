@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Luljeta Sota from south Italy<br><br>- 📚 I'm currently studying in Epicode to become fullstack developer</p>
+<p align="left">I'm Luljeta Sota from Italy<br><br>- 📚 I'm currently studying in Epicode to become fullstack developer</p>
 
 ###
 
