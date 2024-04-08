@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=looloops.looloops&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -14,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Luljeta Sota from Italy<br><br>- 📚 I'm currently studying in Epicode to become fullstack developer</p>
+<p align="left">I'm Luljeta Sota from south Italy<br><br>- 📚 I'm currently studying in Epicode to become fullstack developer</p>
 
 ###
 
@@ -41,5 +47,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=looloops&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
